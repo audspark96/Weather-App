@@ -52,6 +52,7 @@ p {
   font-size: 14px;
   color: #e0ebeb;
 }
+
 .five-day-forecast {
   font-size: 22px;
 }
@@ -166,11 +167,6 @@ p {
 }
 .small {
   font-size: 14px;
-}
-
-.coded-by {
-  font-size: 26px;
-  color: aqua;
 }
 
 img {

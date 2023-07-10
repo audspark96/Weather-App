@@ -6,6 +6,10 @@ button {
   margin: 10px;
   padding: 5px;
 }
+a {
+  color: rgba(25, 176, 206, 0.626);
+}
+
 h1 {
   color: #e0ebeb;
   text-align: center;
@@ -27,7 +31,6 @@ form {
 }
 i {
   font-size: 26px;
-  speed: 100ms;
   padding: 3px;
 }
 
@@ -44,6 +47,10 @@ p {
   opacity: 70%;
   margin-right: 15px;
   margin-bottom: 20px;
+}
+.code-source {
+  font-size: 14px;
+  color: #e0ebeb;
 }
 .five-day-forecast {
   font-size: 22px;

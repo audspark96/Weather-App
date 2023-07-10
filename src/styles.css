@@ -158,8 +158,14 @@ p {
   animation: move-background 150s linear infinite;
 }
 .small {
-  font-size: 12px;
+  font-size: 14px;
 }
+
+.coded-by {
+  font-size: 26px;
+  color: aqua;
+}
+
 img {
   height: 70vh;
   width: 70vh;
